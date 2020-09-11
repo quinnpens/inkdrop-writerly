@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
-  "name": "default-light-syntax",
-  "description": "Default light syntax theme",
+  "name": "writerly",
+  "description": "A dark, low-contrast theme for writers",
   "theme": "syntax",
   "scripts": {
     "build": "lessc styles/less/default.less ./styles/index.css"
